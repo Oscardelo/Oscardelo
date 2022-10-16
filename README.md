@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing.
 - 🌱 I’m currently learning C# and C++.
 - 💞️ I’m looking to collaborate on Game Devolop
-- 📫 How to reach me: tolgatutkun.04@gmail.com
+- 📫 How to reach me: ....@gmail.com
 - ✨ I am new on programing.
 - 📒 I know intermediate C# and GamemakerStudio2.
 
